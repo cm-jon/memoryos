@@ -8,9 +8,9 @@ But if you do — if you believe that most humans are decent, capable of empathy
 
 Wars. Genocide. Pandemics left to spread, Entire populations turned against their neighbors in months; Not because the masses woke up evil one morning, but because they were fed a story — carefully constructed, algorithmically amplified, structurally protected from contradiction — and they believed it. They didn't really had a choice. The infrastructure made the lie cheaper, faster, and more visible than the truth.
 
-The most horrific things humans have done to each other were not caused by some sudden evil in their nature. They were caused by bad information, distributed efficiently by bad players, using naive (sometimes deliberately weak) infrastructure.
+The most horrific things humans have done to each other were were caused by bad information, distributed efficiently by bad players, using naive (sometimes deliberately weak) infrastructure.
 
-And the most **extraordinary** things - scientific breakthroughs, peace agreements, art that changed how people see themselves — happened when good information moved freely. When people could see clearly. When the fragments of reality were accessible and plural.
+The most **extraordinary** things? Scientific breakthroughs, peace agreements, art that changed how people see themselves — happened when good information moved freely. When people could see clearly. When the fragments of reality were accessible and plural.
 
 This is not a philosophical position. It's an architectural one.
 
