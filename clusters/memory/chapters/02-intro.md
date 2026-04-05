@@ -4,13 +4,13 @@ Most people are not bad.
 
 This is the starting point. If you don't agree with this sentence, put this book down. It's not for you.
 
-But if you do — if you believe that most humans are decent, capable of empathy and reason — then the question isn't about people being deeply good or bad. It's about why the world keeps producing outcomes that no decent person would choose.
+But if you do — if you believe that most humans are decent, capable of empathy and reason — then the question isn't about people being good or bad; It's about why the world keeps producing outcomes that no decent person would choose.
 
-Wars. Genocide. Pandemics left to spread while politicians argued about narratives. Entire populations turned against their neighbors in months. Not because they woke up evil one morning. Because they were fed a story — carefully constructed, algorithmically amplified, structurally protected from contradiction — and they believed it. Not because they were stupid. Because the infrastructure made the lie cheaper, faster, and more visible than the truth.
+Wars. Genocide. Pandemics left to spread, Entire populations turned against their neighbors in months; Not because the masses woke up evil one morning, but because they were fed a story — carefully constructed, algorithmically amplified, structurally protected from contradiction — and they believed it. And they didn't really had a choice. The infrastructure made the lie cheaper, faster, and more visible than the truth.
 
-The most horrific things humans have done to each other were not caused by some sudden evil in their nature. They were caused by bad information, distributed efficiently.
+The most horrific things humans have done to each other were not caused by some sudden evil in their nature. They were caused by bad information, distributed efficiently by bad players, using naive (sometimes deliberately weak) infrastructure.
 
-And the most **extraordinary** things — scientific breakthroughs, peace agreements, art that changed how people see themselves — happened when good information moved freely. When people could see clearly. When the fragments of reality were accessible, plural, and unmanipulated.
+And the most **extraordinary** things - scientific breakthroughs, peace agreements, art that changed how people see themselves — happened when good information moved freely. When people could see clearly. When the fragments of reality were accessible and plural.
 
 This is not a philosophical position. It's an architectural one.
 
