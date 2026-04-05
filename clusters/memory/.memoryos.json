@@ -1,0 +1,115 @@
+{
+  "clusterId": "153f86b2-9eb8-4c5c-94ed-b8c6b34e7b9b",
+  "syncedAt": "2026-04-05T09:55:59.354Z",
+  "generator": "MemoryOS Cluster Git Sync",
+  "sections": {
+    "4e7ca6c9-9f23-4ddd-9502-93670f22dbda": {
+      "index": 0,
+      "file": "chapters/01-memory.md"
+    },
+    "96a19ef3-5a8f-4235-a564-ea62a09bfded": {
+      "index": 1,
+      "file": "chapters/02-intro.md"
+    },
+    "06335469-177c-4513-a62d-b1a3511eaba3": {
+      "index": 2,
+      "file": "chapters/03-part-i-diagnosis.md"
+    },
+    "65f3af8f-2c1f-4734-bd1d-81ed64d0da18": {
+      "index": 3,
+      "file": "chapters/04-chapter-1-the-architecture-of-lies.md"
+    },
+    "614eeb35-9245-430c-a749-8ab1700aec43": {
+      "index": 4,
+      "file": "chapters/05-chapter-2-the-poison-machine.md"
+    },
+    "77e7e31b-db34-4996-bc25-872c7bf41532": {
+      "index": 5,
+      "file": "chapters/06-chapter-3-the-ai-accelerant.md"
+    },
+    "f24a2868-165f-4cc7-a9f8-01360db3abf5": {
+      "index": 6,
+      "file": "chapters/07-part-ii-primitive.md"
+    },
+    "9fe17924-e02b-4f9f-8740-6daacbf1ad23": {
+      "index": 7,
+      "file": "chapters/08-chapter-4-the-memory-primitive.md"
+    },
+    "cd58ed1f-f50c-4f5c-8ccb-ff8d4f04490b": {
+      "index": 8,
+      "file": "chapters/09-chapter-5-your-self.md"
+    },
+    "303832b1-b4ab-4559-a15e-3a423837b4a6": {
+      "index": 9,
+      "file": "chapters/10-chapter-7-the-collective-memory-a-shared-layer-for-humanity.md"
+    },
+    "a040a505-a6d6-42aa-a41c-346bd0bb5dd1": {
+      "index": 10,
+      "file": "chapters/11-part-iii-case-studies.md"
+    },
+    "e4ca45a1-f4e8-436c-9c24-343fdfd953f7": {
+      "index": 11,
+      "file": "chapters/12-chapter-8-the-reality-graph.md"
+    },
+    "af64b695-8275-48d0-b96c-b316834f96ed": {
+      "index": 12,
+      "file": "chapters/13-chapter-9-journalism-from-gatekeepers-to-ground-truth.md"
+    },
+    "61af1c94-f4a2-4746-819b-733b89dfdfce": {
+      "index": 13,
+      "file": "chapters/14-chapter-10-search.md"
+    },
+    "3653a274-f3a8-434e-8ebc-30a717d43f81": {
+      "index": 14,
+      "file": "chapters/15-chapter-11-social-from-performance-to-presence.md"
+    },
+    "50422676-14b0-47aa-bbda-996445fd7c66": {
+      "index": 15,
+      "file": "chapters/16-chapter-12-dating-and-intimacy.md"
+    },
+    "bf41e8bd-7c94-44d5-bba6-80828ca23d79": {
+      "index": 16,
+      "file": "chapters/17-chapter-13-cybersecurity-identity-as-a-memory-chain.md"
+    },
+    "f0ea4fd7-8f26-4178-87db-145a02603f0d": {
+      "index": 17,
+      "file": "chapters/18-chapter-14-art-and-science.md"
+    },
+    "7f99a8a1-1479-4676-954d-071da164f1f4": {
+      "index": 18,
+      "file": "chapters/19-chapter-15-war.md"
+    },
+    "62925fc5-e04d-460b-99b2-d084d8892a54": {
+      "index": 19,
+      "file": "chapters/20-chapter-16-the-invitation.md"
+    },
+    "336efce3-595d-4504-ad3e-bb23c0fa2ada": {
+      "index": 20,
+      "file": "chapters/21-appendixes.md"
+    },
+    "71e4dee3-57f0-42cd-ae65-e2dff78df3df": {
+      "index": 21,
+      "file": "chapters/22-appendix-1-memory-spec.md"
+    },
+    "21d22929-c56a-428d-b38f-3608cd13baae": {
+      "index": 22,
+      "file": "chapters/23-appendix-2-value-link-spec.md"
+    },
+    "75c6e2bb-7b7d-484c-b6f8-796abee2d0e5": {
+      "index": 23,
+      "file": "chapters/24-appendix-3-attn-spec.md"
+    },
+    "0ce581d9-fd33-48ab-a882-36ff46d0613a": {
+      "index": 24,
+      "file": "chapters/25-appendix-4-storage.md"
+    },
+    "1b5f0c6b-f390-40f4-9c92-981e4887c067": {
+      "index": 25,
+      "file": "chapters/26-appendix-5-blockchain.md"
+    },
+    "244948d5-bea6-4142-bfd8-78ff3ce4e780": {
+      "index": 26,
+      "file": "chapters/27-appendix-6-augmentation-and-diversity-of-thought.md"
+    }
+  }
+}
