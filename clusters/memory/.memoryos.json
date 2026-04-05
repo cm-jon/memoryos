@@ -1,6 +1,6 @@
 {
   "clusterId": "153f86b2-9eb8-4c5c-94ed-b8c6b34e7b9b",
-  "syncedAt": "2026-04-05T09:55:59.354Z",
+  "syncedAt": "2026-04-05T10:09:07.690Z",
   "generator": "MemoryOS Cluster Git Sync",
   "sections": {
     "4e7ca6c9-9f23-4ddd-9502-93670f22dbda": {
@@ -110,6 +110,37 @@
     "244948d5-bea6-4142-bfd8-78ff3ce4e780": {
       "index": 26,
       "file": "chapters/27-appendix-6-augmentation-and-diversity-of-thought.md"
+    }
+  },
+  "comments": {
+    "f470c6ae-037d-4298-bc63-8021004cf28f": {
+      "index": 0,
+      "file": "comments/01-on-intro.md",
+      "targetSection": "Intro"
+    },
+    "b008fdd3-be30-4d00-9531-d3f904629ec0": {
+      "index": 1,
+      "file": "comments/02-on-intro.md",
+      "targetSection": "Intro"
+    },
+    "8686b2f5-8552-48b6-a3f7-e9ad3aceed82": {
+      "index": 2,
+      "file": "comments/03-on-intro.md",
+      "targetSection": "Intro"
+    },
+    "9df70eee-b4d7-49b3-8528-c6691d4f7431": {
+      "index": 3,
+      "file": "comments/04-on-intro.md",
+      "targetSection": "Intro"
+    },
+    "955e12f2-6fd0-4a84-8290-cc2756866d6d": {
+      "index": 4,
+      "file": "comments/05-kristallnacht-nazi-germany-1938-le.md"
+    },
+    "8866df10-6858-4fa4-912a-367197fd63d3": {
+      "index": 5,
+      "file": "comments/06-on-chapter-10-search.md",
+      "targetSection": "Chapter 10: Search"
     }
   }
 }
