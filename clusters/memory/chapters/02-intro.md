@@ -4,7 +4,7 @@ Most people are not bad.
 
 This is the starting point. If you don't agree with this sentence, put this book down. It's not for you.
 
-But if you do — if you believe that most humans are decent, capable of empathy and reason — then the question isn't about people. It's about why the world keeps producing outcomes that no decent person would choose.
+But if you do — if you believe that most humans are decent, capable of empathy and reason — then the question isn't about people being deeply good or bad. It's about why the world keeps producing outcomes that no decent person would choose.
 
 Wars. Genocide. Pandemics left to spread while politicians argued about narratives. Entire populations turned against their neighbors in months. Not because they woke up evil one morning. Because they were fed a story — carefully constructed, algorithmically amplified, structurally protected from contradiction — and they believed it. Not because they were stupid. Because the infrastructure made the lie cheaper, faster, and more visible than the truth.
 
