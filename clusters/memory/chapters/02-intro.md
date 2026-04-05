@@ -14,10 +14,9 @@ The most **extraordinary** things? Scientific breakthroughs, peace agreements, a
 
 This is not a philosophical position. It's an architectural one.
 
-The information infrastructure we live inside was not designed to inform. It was designed to capture. Attention, data, engagement — these are the metrics. Not understanding. Not clarity. Not truth. The feed is not a window onto the world. It's a funnel into someone else's business model. The algorithm doesn't show you what matters. It shows you what keeps you scrolling. And the platform doesn't work for you — you work for the platform. You create the content. They decide if anyone sees it. They extract the value. They dictate the terms. That's not a service. That's an empire.
+The information infrastructure we live inside was not designed to inform. It was designed to capture; Attention, data, engagement — these are the metrics. Not understanding. Not clarity. Not truth. The feed is not a window onto the world. It's a funnel into someone else's business model. The algorithm doesn't show you what matters. It shows you what keeps you scrolling. And the platform doesn't work for you — you work for the platform. You create the content. They decide if anyone sees it. They extract the value. They dictate the terms. That's not a service. That's an empire.
 
 This was already a structural disaster before AI.
-
 Now it's an existential one.
 
 Because everything I just described — the manipulation, the amplification, the fabrication of narratives — just got automated. Generative AI didn't create the problem. It poured gasoline on a burning building. The cost of producing misinformation just dropped to zero. The cost of producing convincing misinformation dropped to zero. Deepfakes that would have taken a studio now take a prompt. Synthetic voices, synthetic faces, synthetic histories — all indistinguishable from real ones, all distributed through the same infrastructure that was already optimized for engagement over truth.
