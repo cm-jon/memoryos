@@ -6,7 +6,7 @@ This is the starting point. If you don't agree with this sentence, put this book
 
 But if you do — if you believe that most humans are decent, capable of empathy and reason — then the question isn't about people being good or bad; It's about why the world keeps producing outcomes that no decent person would choose.
 
-Wars. Genocide. Pandemics left to spread, Entire populations turned against their neighbors in months; Not because the masses woke up evil one morning, but because they were fed a story — carefully constructed, algorithmically amplified, structurally protected from contradiction — and they believed it. And they didn't really had a choice. The infrastructure made the lie cheaper, faster, and more visible than the truth.
+Wars. Genocide. Pandemics left to spread, Entire populations turned against their neighbors in months; Not because the masses woke up evil one morning, but because they were fed a story — carefully constructed, algorithmically amplified, structurally protected from contradiction — and they believed it. They didn't really had a choice. The infrastructure made the lie cheaper, faster, and more visible than the truth.
 
 The most horrific things humans have done to each other were not caused by some sudden evil in their nature. They were caused by bad information, distributed efficiently by bad players, using naive (sometimes deliberately weak) infrastructure.
 
